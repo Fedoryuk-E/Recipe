@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Recipe</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="category">Введите категорию блюда</string>
+    <string-array name="category">
+        <item>Unit0</item>
+        <item>Unit1</item>
+        <item>Unit2</item>
+        <item>Unit3</item>
+        <item>Unit4</item>
+        <item>Unit5</item>
+        <item>Unit6</item>
+        <item>Unit7</item>
+    </string-array>
+</resources>
